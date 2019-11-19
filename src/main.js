@@ -2,7 +2,6 @@ import Vue from 'vue'
 import App from './app.vue'
 import router from './router'
 import Router from 'vue-router'
-// import './assets/styles/_reset.scss'
 
 Vue.use(Router)
 const root = document.createElement('div')
